@@ -45,7 +45,8 @@ import org.apache.commons.io.IOUtils;
 
 public class OptimizerServiceTestIT {
 
-   private static final String BASE_URL = "http://localhost:8080/optimizer/";
+   //private static final String BASE_URL = "http://localhost:8080/optimizer/";
+   private static final String BASE_URL = "http://planner-seacloudspolimi.rhcloud.com/optimizer0.8-oct2015/optimizer/";
    private static String appModel;
    private static String suitableCloudOffer;
 
